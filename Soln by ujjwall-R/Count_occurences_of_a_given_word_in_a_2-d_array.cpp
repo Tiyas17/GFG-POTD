@@ -1,6 +1,5 @@
 class Solution{
     public:
-    
     string tt;
     int n,m;
     vector<vector<char> > arr;
